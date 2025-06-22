@@ -1,0 +1,9 @@
+{
+  // Pastikan path ke interpreter Python di venv
+  "python.pythonPath": "venv/Scripts/python.exe",
+
+  // Tambahkan folder src agar VSCode tahu di situ letak modul custom-mu
+  "python.analysis.extraPaths": [
+    "./src"
+  ]
+}
