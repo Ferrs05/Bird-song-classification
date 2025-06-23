@@ -6,7 +6,7 @@ import librosa
 import soundfile as sf
 
 # ======================================================================
-# DEFINISI PATH KE PROYEK (hard-coded sesuai lokasi Windows Anda)
+# DEFINISI PATH KE PROYEK 
 ROOT_DIR = r"C:\Users\muhfe\OneDrive\Documents\BELAJAR\File Project\Project Birdsong"
 
 # Folder data asli (.wav) dan tujuan hasil augmentasi
